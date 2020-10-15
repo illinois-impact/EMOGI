@@ -1,6 +1,6 @@
 # EMOGI
 
-## Compile
+## Compilation
 
 ``Makefile`` is provided for a comprehensive compilation. However, depending on the GPU you are using, you'll need to modify the ``compute_XX`` and ``arch_XX`` arguments in ``NVCCFLAGS``.
 
@@ -41,7 +41,7 @@ Example:
 $ ./bfs -f com-Friendster.bel -r 0 -t 2 -m 2
 ```
 
-### Citation
+## Citation
 ```
 @article{min2020emogi,
 author = {Min, Seung Won and Mailthody, Vikram Sharma and Qureshi, Zaid and Xiong, Jinjun and Ebrahimi, Eiman and Hwu, Wen-mei},
@@ -56,5 +56,5 @@ month = oct,
 }
 ```
 
-### Contact
+## Contact
 Seung Won Min, min16@illinois.edu
