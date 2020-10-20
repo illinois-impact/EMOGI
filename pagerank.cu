@@ -185,7 +185,7 @@ int main(int argc, char *argv[]) {
     if (!file.is_open()) {
         fprintf(stderr, "Vertex file open failed\n");
         exit(1);
-    };
+    }
 
     file.read((char*)(&vertex_count), 8);
     file.read((char*)(&typeT), 8);
@@ -204,7 +204,7 @@ int main(int argc, char *argv[]) {
     if (!file.is_open()) {
         fprintf(stderr, "Edge file open failed\n");
         exit(1);
-    };
+    }
 
     file.read((char*)(&edge_count), 8);
     file.read((char*)(&typeT), 8);
