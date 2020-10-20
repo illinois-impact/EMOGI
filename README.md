@@ -45,7 +45,7 @@ $ ./bfs -f com-Friendster.bel -r 0 -t 2 -m 2
 ```
 @article{min2020emogi,
 author = {Min, Seung Won and Mailthody, Vikram Sharma and Qureshi, Zaid and Xiong, Jinjun and Ebrahimi, Eiman and Hwu, Wen-mei},
-title = {EMOGI: Efficient Memory-access for Out-of-memory Graph-traversal In GPUs},
+title = {EMOGI: Efficient Memory-access for Out-of-memory Graph-traversal in GPUs},
 year = {2021},
 publisher = {VLDB Endowment},
 volume = {14},
