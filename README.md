@@ -1,4 +1,5 @@
 # EMOGI
+This repository provides the required source code to reproduce merged+aligned implementation results of EMOGI. 
 
 ## Compilation
 
